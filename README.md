@@ -1,0 +1,2 @@
+# euclidJS
+npm package 
