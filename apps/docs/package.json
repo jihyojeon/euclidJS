@@ -1,0 +1,14 @@
+{
+  "name": "docs",
+  "version": "0.0.1",
+  "private": "true",
+  "type": "module",
+  "scripts": {
+    "test": "echo test"
+  },
+  "author": "Jihyo Jeon",
+  "license": "ISC",
+  "dependencies": {
+    "euclid-geometry": "^0.0.2"
+  }
+}

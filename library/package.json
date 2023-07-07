@@ -1,0 +1,20 @@
+{
+  "name": "euclid-geometry",
+  "version": "0.0.2",
+  "type": "module",
+  "description": "npm package",
+  "main": "src/index.cjs",
+  "module": "src/index.js",
+  "types": "src/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./src/index.js",
+      "require": "./src/index.cjs"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jihyo Jeon",
+  "license": "ISC"
+}
