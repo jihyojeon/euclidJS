@@ -1,2 +1,2 @@
-# euclidJS
+# euclid-geometry
 npm package 
